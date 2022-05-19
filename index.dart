@@ -1,4 +1,5 @@
-  drawer: Drawer( )
+drawer: Drawer( )
+  
 appBar: AppBar(backgroundColor: Colors.black54)
 Container(
                 height: 200,
@@ -56,7 +57,7 @@ Container(
 
                             child: Text(
 
-                              'Zeeshi Wazir',
+                              'Thais Milena',
 
                               style: GoogleFonts.montserrat(
 
@@ -72,7 +73,7 @@ Container(
 
                           Text(
 
-                            'zeerockyf5@gmail.com',
+                            'thaismilenam@gmail.com',
 
                             style: GoogleFonts.montserrat(
 
